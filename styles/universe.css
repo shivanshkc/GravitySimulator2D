@@ -1,0 +1,7 @@
+#universe {
+    height: 680px;
+    width: 1520px;
+    background-color: lightgrey; 
+    overflow: hidden;
+    margin-top: 4px;
+}
